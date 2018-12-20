@@ -1,0 +1,44 @@
+[options]
+allow_bold = true
+audible_bell = false
+clickable_url = true
+#dynamic_title = true
+#fullscreen = true
+geometry = 900x700
+#icon_name = terminal
+mouse_autohide = false
+#scroll_on_output = false
+#scroll_on_keystroke = true
+# Length of the scrollback buffer, 0 disabled the scrollback buffer
+# and setting it to a negative value means "infinite scrollback"
+scrollback_lines = -1
+#search_wrap = true
+urgent_on_bell = true
+hyperlinks = false
+
+font = Source Code Pro medium 8.5
+#font = Fira Mono medium 9
+#transparency = 0.5
+[colors]
+background = "#1e1e1e"
+cursor = "#bbbbbb"
+foreground = "#e6d4a3"
+color0 = #161819
+color1 = #f73028
+color2 = #aab01e
+color3 = #f7b125
+color4 = #719586
+color5 = #c77089
+color6 = #7db669
+color7 = #faefbb
+color8 = #7f7061
+color9 = #be0f17
+color10 = #868715
+color11 = #cc881a
+color12 = #377375
+color13 = #a04b73
+color14 = #578e57
+color15 = #e6d4a3
+colorBD = #978771
+colorIT =
+colorUL =
