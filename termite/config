@@ -16,8 +16,8 @@ scrollback_lines = -1
 urgent_on_bell = true
 hyperlinks = false
 
-font = Source Code Pro medium 8.5
-#font = Fira Mono medium 9
+#font = Source Code Pro medium 9
+font = Fira Mono medium 9
 #transparency = 0.5
 [colors]
 background = "#1e1e1e"

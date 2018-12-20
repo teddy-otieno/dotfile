@@ -55,7 +55,7 @@ font-2 = Material Icons:pixelsize=9:antialias=true:;2
 #font-2 = siji:pixelsize=10;1
 
 modules-left = mpd pulseaudio
-modules-center = i3 
+modules-center = bspwm
 modules-right = filesystem xkeyboard memory cpu wlan eth date powermenu
 
 ;tray-position = right
